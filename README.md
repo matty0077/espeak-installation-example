@@ -1,5 +1,7 @@
 # espeak-installation-example
 
+Used in: https://sinistergenius.com/2016/12/27/voice-recognition/
+
 Copied n pasted from https://www.peterbeard.co/blog/post/making-your-raspberry-pi-talk-to-you-with-espeak/
 
 
